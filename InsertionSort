@@ -1,3 +1,7 @@
+//left me chota h ya bada wo check krenge if left>right swap 
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
