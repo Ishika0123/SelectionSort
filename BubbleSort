@@ -1,3 +1,6 @@
+//adjacent check krenge if left chota hua right se to ok nhi to swap max ko ek dum right me krenge
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
